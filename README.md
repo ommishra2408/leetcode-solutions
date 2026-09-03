@@ -46,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/ommishra2408/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ommishra2408/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ommishra2408/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
