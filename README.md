@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1470-shuffle-the-array](https://github.com/ommishra2408/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1872-stone-game-viii](https://github.com/ommishra2408/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/ommishra2408/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/ommishra2408/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ommishra2408/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ommishra2408/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ommishra2408/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/ommishra2408/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/ommishra2408/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ommishra2408/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2733-neither-minimum-nor-maximum](https://github.com/ommishra2408/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 ## Sliding Window
 |  |
 | ------- |
