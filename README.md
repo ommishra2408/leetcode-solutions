@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ommishra2408/leetcode-solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/ommishra2408/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ommishra2408/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ommishra2408/leetcode-solutions/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ommishra2408/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ommishra2408/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ommishra2408/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ommishra2408/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/ommishra2408/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -136,4 +138,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ommishra2408/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ommishra2408/leetcode-solutions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ommishra2408/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ommishra2408/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
