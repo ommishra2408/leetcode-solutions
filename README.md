@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ommishra2408/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/ommishra2408/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ommishra2408/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ommishra2408/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ommishra2408/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ommishra2408/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
