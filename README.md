@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/ommishra2408/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ommishra2408/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ommishra2408/leetcode-solutions/tree/master/1470-shuffle-the-array) |
+| [1834-single-threaded-cpu](https://github.com/ommishra2408/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 | [1872-stone-game-viii](https://github.com/ommishra2408/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/ommishra2408/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ommishra2408/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/ommishra2408/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ommishra2408/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ommishra2408/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1834-single-threaded-cpu](https://github.com/ommishra2408/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ommishra2408/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 ## Sliding Window
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ommishra2408/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1834-single-threaded-cpu](https://github.com/ommishra2408/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 ## Quickselect
 |  |
 | ------- |
