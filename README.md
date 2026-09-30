@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/ommishra2408/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/ommishra2408/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1446-consecutive-characters](https://github.com/ommishra2408/leetcode-solutions/tree/master/1446-consecutive-characters) |
+| [1768-merge-strings-alternately](https://github.com/ommishra2408/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2351-first-letter-to-appear-twice](https://github.com/ommishra2408/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Tree
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/ommishra2408/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ommishra2408/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/ommishra2408/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/ommishra2408/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Quicksort
 |  |
 | ------- |
