@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ommishra2408/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ommishra2408/leetcode-solutions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/ommishra2408/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ommishra2408/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ommishra2408/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ommishra2408/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ommishra2408/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/ommishra2408/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ommishra2408/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ommishra2408/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ommishra2408/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/ommishra2408/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ommishra2408/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ommishra2408/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ommishra2408/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ommishra2408/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ommishra2408/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/ommishra2408/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ommishra2408/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ommishra2408/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/ommishra2408/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/ommishra2408/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ommishra2408/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ommishra2408/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
