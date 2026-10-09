@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/ommishra2408/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ommishra2408/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ommishra2408/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/ommishra2408/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/ommishra2408/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ommishra2408/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ommishra2408/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ommishra2408/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/ommishra2408/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/ommishra2408/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
@@ -308,4 +310,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ommishra2408/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ommishra2408/leetcode-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ommishra2408/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
