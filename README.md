@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/ommishra2408/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ommishra2408/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ommishra2408/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ommishra2408/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ommishra2408/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ommishra2408/leetcode-solutions/tree/master/0268-missing-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ommishra2408/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/ommishra2408/leetcode-solutions/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/ommishra2408/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Linked List
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ommishra2408/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ommishra2408/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ommishra2408/leetcode-solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/ommishra2408/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/ommishra2408/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ommishra2408/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ommishra2408/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/ommishra2408/leetcode-solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/ommishra2408/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ommishra2408/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ommishra2408/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
