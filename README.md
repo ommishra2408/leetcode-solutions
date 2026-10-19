@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0012-integer-to-roman](https://github.com/ommishra2408/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/ommishra2408/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/ommishra2408/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ommishra2408/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ommishra2408/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ommishra2408/leetcode-solutions/tree/master/0067-add-binary) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ommishra2408/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/ommishra2408/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ommishra2408/leetcode-solutions/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/ommishra2408/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/ommishra2408/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ommishra2408/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ommishra2408/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/ommishra2408/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/ommishra2408/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ommishra2408/leetcode-solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/ommishra2408/leetcode-solutions/tree/master/0115-distinct-subsequences) |
