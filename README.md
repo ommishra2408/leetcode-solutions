@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1834-single-threaded-cpu](https://github.com/ommishra2408/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 | [1872-stone-game-viii](https://github.com/ommishra2408/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/ommishra2408/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ommishra2408/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ommishra2408/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ommishra2408/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ommishra2408/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ommishra2408/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ommishra2408/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1834-single-threaded-cpu](https://github.com/ommishra2408/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ommishra2408/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ommishra2408/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 ## Sliding Window
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/ommishra2408/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ommishra2408/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/ommishra2408/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ommishra2408/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
