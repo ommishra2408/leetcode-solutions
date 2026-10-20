@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3483-unique-3-digit-even-numbers](https://github.com/ommishra2408/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ommishra2408/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ommishra2408/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/ommishra2408/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/ommishra2408/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ommishra2408/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1872-stone-game-viii](https://github.com/ommishra2408/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3871-count-commas-in-range-ii](https://github.com/ommishra2408/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ommishra2408/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/ommishra2408/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1834-single-threaded-cpu](https://github.com/ommishra2408/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ommishra2408/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ommishra2408/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [3886-sum-of-sortable-integers](https://github.com/ommishra2408/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/ommishra2408/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/ommishra2408/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Concurrency
 |  |
 | ------- |
